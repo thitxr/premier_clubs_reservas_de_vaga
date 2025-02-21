@@ -1,18 +1,1 @@
-{
-    "reservations": [
-        {
-            "telegram_user_id": "6481092720",
-            "discord_id": "1081026098655141898",
-            "md3_time": "2025-02-19T17:00:00",
-            "role": "Volante",
-            "confirmed_at": "2025-02-19T15:46:43.834791"
-        },
-        {
-            "telegram_user_id": "6481092720",
-            "discord_id": "1081026098655141898",
-            "md3_time": "2025-02-19T18:00:00",
-            "role": "Meia Armador",
-            "confirmed_at": "2025-02-19T15:47:07.844239"
-        }
-    ]
-}
+
