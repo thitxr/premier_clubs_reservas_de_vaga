@@ -1,1 +1,12 @@
-
+{
+    "reservations": [
+        {
+            "telegram_id": 6481092720,
+            "discord_id": "1081026098655141898",
+            "role": "Meia",
+            "md3_time": "2025-03-02T16:00-03:00",
+            "confirmed_at": "2025-03-02T14:43-03:00",
+            "assinante_name": "Thiago"
+        }
+    ]
+}
